@@ -52,7 +52,7 @@
 - **VCS** : Github
 - **IDE** : Pycharm
 
-![image](13.png)  
-![image](14.png)  
+![image](13.PNG)  
+![image](14.PNG)  
 
 ...진행중
