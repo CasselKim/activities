@@ -100,7 +100,7 @@
 ### [Everytime Rank](https://github.com/CasselKim/EverytimeRank)   
 **과제수행기간** 2020.09 ~ 2020.10  
 **기타 정보** 데이터 분석으로 에브리타임 핫게시판 등극하기  
-### [경북대학교 고양이 인식기]()   
+### [경북대학교 고양이 인식기](https://github.com/CasselKim/Knyang)   
 **과제수행기간** 2020.04 ~ 2020.05  
 **기타 정보** 인공지능  경북대학교 길고양이 인식기  
 ### [재봉틀](Projects/Jaebongteul/README.md)   
