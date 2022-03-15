@@ -18,9 +18,9 @@
 **외부기관명** 경북대학교 산학협력단  
 **담당자** 창업교육팀 053-950-2373   
 ### 정보통신산업진흥원 고성능 컴퓨팅 자원 유치
-**참여기간** 2020.02 ~ 2021.03.01 
-**외부기관명** 정보통신산업진흥원(NIPA)  
-**담당자** 박정호 043-931-5751  
+**참여기간** 2020.02 ~ 2021.03.01  
+**외부기관명** 정보통신산업진흥원(NIPA)   
+**담당자** 박정호 043-931-5751   
 ### Google Developer Group Daegu Organizer
 **참여기간** 2020.10 ~  
 **외부기관명** GDG  
@@ -67,46 +67,46 @@
 **담당자명** 한국SW산업협회산업진흥팀 02-2183-6943  
 ## Ⅳ 프로젝트
 ### [Today I Learn](https://github.com/CasselKim/TIL)   
-**과제수행기간** 2019.7 ~  
-**기타 정보** 그날 배운 내용을 정리한 기록들  
-### [빅데이터 분석 스터디](https://github.com/haedal-with-knu/HaedalDataCenter)   
-**과제수행기간** 2020.07 ~ 2021.01 
-**기타 정보** 빅데이터 분석, 시각화에 대한 스터디. 스터디원들이 함께 문서작성에 참여하였습니다.  
-### [Coding Practice](https://github.com/CasselKim/CodingPractice)   
-**과제수행기간** 2020.03 ~  
-**기타 정보** Hacker Rank, Codewars 알고리즘 문제 풀이  
-### [Unreal Steel](https://github.com/HP-DEVGRU/UnrealSteel)   
-**과제수행기간** 2019.11 ~ 2020.11 
-**기타 정보** 보조장치 없이 카메라만으로 구현하는 3D 모션캡쳐, 개발자(신준철)과 함께 작성에 참여하였습니다.  
-### [Auto Customizing](https://github.com/CasselKim/AutoCustomizing)   
-**과제수행기간** 2019.09 
-**기타 정보** 게임 캐릭터를 연예인과 똑같이 커스터마이징  
-### [Face Filter](https://github.com/CasselKim/FaceFilter)   
-**과제수행기간** 2019.06 ~ 2019.07  
-**기타 정보** 스노우 어플 만들기  
-### [Selfmade wiki](https://github.com/CasselKim/selfmade_wiki)   
-**과제수행기간** 2020.04 ~  
-**기타 정보** 중요한 IT 용어들을 정리  
-### [Everytime Rank](https://github.com/CasselKim/EverytimeRank)   
-**과제수행기간** 2020.09 ~ 2020.10  
-**기타 정보** 데이터 분석으로 에브리타임 핫게시판 등극하기  
-### [경북대학교 고양이 인식기](https://github.com/CasselKim/Knyang)   
-**과제수행기간** 2020.04 ~ 2020.05  
-**기타 정보** 인공지능  경북대학교 길고양이 인식기  
-### [재봉틀](Projects/Jaebongteul/README.md)   
-**과제수행기간** 2020.06  
-**기타 정보** 쇼핑몰 통합솔루션 (업무 자동화 프로그램)  
-### [무한매수](https://github.com/CasselKim/muhan_maesuV2)   
-**과제수행기간** 2021.07 ~
-**기타 정보** 비트코인 자동매매 프로그램  
-### [AWS Virtual Network](https://github.com/CasselKim/AWS_virtual_network)  
-**과제수행기간** 2021.12 ~ 2022.01
-**기타 정보** AWS로 가상 네트워크 구축하기 (VPC, Subnet, RDS, Loadbalancer, ...)
-### [HOXY.kr](https://github.com/CasselKim/hoxy.kr)  
-**과제수행기간** 2021.06 ~ 2021.07
-**기타 정보** 리그오브레전드 계정 정보를 추적 (AWS, Docker, RabbitMQ, Celery, Django)  
+**과제수행기간** 2019.7 ~   
+**기타 정보** 그날 배운 내용을 정리한 기록들   
+### [빅데이터 분석 스터디](https://github.com/haedal-with-knu/HaedalDataCenter)    
+**과제수행기간** 2020.07 ~ 2021.01  
+**기타 정보** 빅데이터 분석, 시각화에 대한 스터디. 스터디원들이 함께 문서작성에 참여하였습니다.   
+### [Coding Practice](https://github.com/CasselKim/CodingPractice)    
+**과제수행기간** 2020.03 ~   
+**기타 정보** Hacker Rank, Codewars 알고리즘 문제 풀이   
+### [Unreal Steel](https://github.com/HP-DEVGRU/UnrealSteel)    
+**과제수행기간** 2019.11 ~ 2020.11   
+**기타 정보** 보조장치 없이 카메라만으로 구현하는 3D 모션캡쳐, 개발자(신준철)과 함께 작성에 참여하였습니다.   
+### [Auto Customizing](https://github.com/CasselKim/AutoCustomizing)    
+**과제수행기간** 2019.09  
+**기타 정보** 게임 캐릭터를 연예인과 똑같이 커스터마이징   
+### [Face Filter](https://github.com/CasselKim/FaceFilter)    
+**과제수행기간** 2019.06 ~ 2019.07   
+**기타 정보** 스노우 어플 만들기   
+### [Selfmade wiki](https://github.com/CasselKim/selfmade_wiki)    
+**과제수행기간** 2020.04 ~   
+**기타 정보** 중요한 IT 용어들을 정리   
+### [Everytime Rank](https://github.com/CasselKim/EverytimeRank)    
+**과제수행기간** 2020.09 ~ 2020.10   
+**기타 정보** 데이터 분석으로 에브리타임 핫게시판 등극하기   
+### [경북대학교 고양이 인식기](https://github.com/CasselKim/Knyang)    
+**과제수행기간** 2020.04 ~ 2020.05   
+**기타 정보** 인공지능  경북대학교 길고양이 인식기   
+### [재봉틀](Projects/Jaebongteul/README.md)    
+**과제수행기간** 2020.06   
+**기타 정보** 쇼핑몰 통합솔루션 (업무 자동화 프로그램)   
+### [무한매수](https://github.com/CasselKim/muhan_maesuV2)    
+**과제수행기간** 2021.07 ~  
+**기타 정보** 비트코인 자동매매 프로그램   
+### [AWS Virtual Network](https://github.com/CasselKim/AWS_virtual_network)   
+**과제수행기간** 2021.12 ~ 2022.01  
+**기타 정보** AWS로 가상 네트워크 구축하기 (VPC, Subnet, RDS, Loadbalancer, ...)  
+### [HOXY.kr](https://github.com/CasselKim/hoxy.kr)   
+**과제수행기간** 2021.06 ~ 2021.07  
+**기타 정보** 리그오브레전드 계정 정보를 추적 (AWS, Docker, RabbitMQ, Celery, Django)   
 ## Ⅴ 기타
-- [**GCP Data Engineering Certificate 정리](https://github.com/CasselKim/GCPDataEngineer)
+- [**GCP Data Engineering Certificate 정리**](https://github.com/CasselKim/GCPDataEngineer)
 - [**빅데이터 분석 기사 정리**](https://github.com/CasselKim/BigdataCert)  
 - [**소켓 프로그래밍 정리**](etc/socket/README.md)   
 - [**웹 크롤링 정리**](etc/crawling/README.md)   
