@@ -70,15 +70,15 @@
 ### [Today I Learn](https://github.com/CasselKim/TIL)   
 **과제수행기간** 2019.7 ~  
 **기타 정보** 그날 배운 내용을 정리한 기록들  
-### [Unreal Steel](https://github.com/HP-DEVGRU/UnrealSteel)   
-**과제수행기간** 2019.11 ~  
-**기타 정보** 보조장치 없이 카메라만으로 구현하는 3D 모션캡쳐, 개발자(신준철)과 함께 작성에 참여하였습니다.  
 ### [빅데이터 분석 스터디](https://github.com/haedal-with-knu/HaedalDataCenter)   
 **과제수행기간** 2020.07 ~  
 **기타 정보** 빅데이터 분석, 시각화에 대한 스터디. 스터디원들이 함께 문서작성에 참여하였습니다.  
 ### [Coding Practice](https://github.com/CasselKim/CodingPractice)   
 **과제수행기간** 2020.03 ~  
 **기타 정보** Hacker Rank, Codewars 알고리즘 문제 풀이  
+### [Unreal Steel](https://github.com/HP-DEVGRU/UnrealSteel)   
+**과제수행기간** 2019.11 ~  
+**기타 정보** 보조장치 없이 카메라만으로 구현하는 3D 모션캡쳐, 개발자(신준철)과 함께 작성에 참여하였습니다.  
 ### [Auto Customizing](https://github.com/CasselKim/AutoCustomizing)   
 **과제수행기간** 2019.09 ~  
 **기타 정보** 게임 캐릭터를 연예인과 똑같이 커스터마이징  
@@ -97,7 +97,18 @@
 ### [재봉틀](Projects/Jaebongteul/README.md)   
 **과제수행기간** 2020.06  
 **기타 정보** 쇼핑몰 통합솔루션 (업무 자동화 프로그램)  
+### [무한매수](https://github.com/CasselKim/muhan_maesuV2)   
+**과제수행기간** 2021.07 ~
+**기타 정보** 비트코인 자동매매 프로그램  
+### [AWS Virtual Network](https://github.com/CasselKim/AWS_virtual_network)  
+**과제수행기간** 2021.12 ~ 2022.01
+**기타 정보** AWS로 가상 네트워크 구축하기 (VPC, Subnet, RDS, Loadbalancer, ...)
+### [HOXY.kr](https://github.com/CasselKim/hoxy.kr)  
+**과제수행기간** 2021.06 ~ 2021.07
+**기타 정보** 리그오브레전드 계정 정보를 추적 (AWS, Docker, RabbitMQ, Celery, Django)  
 ## Ⅴ 기타
+- [**GCP Data Engineering Certificate 정리](https://github.com/CasselKim/GCPDataEngineer)
+- [**빅데이터 분석 기사 정리**](https://github.com/CasselKim/BigdataCert)  
 - [**소켓 프로그래밍 정리**](etc/socket/README.md)   
 - [**웹 크롤링 정리**](etc/crawling/README.md)   
 - [**클린 코드 정리**](etc/cleancode/README.md)    
