@@ -75,9 +75,9 @@
 ### [Coding Practice](https://github.com/CasselKim/CodingPractice)    
 **과제수행기간** 2020.03 ~   
 **기타 정보** Hacker Rank, Codewars 알고리즘 문제 풀이   
-### [Unreal Steel](https://github.com/HP-DEVGRU/UnrealSteel)    
+### [Unreal Steel](https://casselkim.notion.site/UNREAL-STEEL-f1f38195feb54d93852b7f14b596e927)    
 **과제수행기간** 2019.11 ~ 2020.11   
-**기타 정보** 보조장치 없이 카메라만으로 구현하는 3D 모션캡쳐, 개발자(신준철)과 함께 작성에 참여하였습니다.   
+**기타 정보** 보조장치 없이 카메라만으로 구현하는 3D 모션캡쳐
 ### [Auto Customizing](https://github.com/CasselKim/AutoCustomizing)    
 **과제수행기간** 2019.09  
 **기타 정보** 게임 캐릭터를 연예인과 똑같이 커스터마이징   
